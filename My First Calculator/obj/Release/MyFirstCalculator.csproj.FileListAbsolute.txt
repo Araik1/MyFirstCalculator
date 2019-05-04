@@ -1,0 +1,11 @@
+C:\Study projects\GitHub\Studies\MyFirstCalculator\bin\Release\MyFirstCalculator.exe.config
+C:\Study projects\GitHub\Studies\MyFirstCalculator\bin\Release\MyFirstCalculator.exe
+C:\Study projects\GitHub\Studies\MyFirstCalculator\bin\Release\MyFirstCalculator.pdb
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Release\MyFirstCalculator.csprojAssemblyReference.cache
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Release\MyFirstCalculator.calculator.resources
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Release\MyFirstCalculator.History.resources
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Release\MyFirstCalculator.Properties.Resources.resources
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Release\MyFirstCalculator.csproj.GenerateResource.cache
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Release\MyFirstCalculator.csproj.CoreCompileInputs.cache
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Release\MyFirstCalculator.exe
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Release\MyFirstCalculator.pdb

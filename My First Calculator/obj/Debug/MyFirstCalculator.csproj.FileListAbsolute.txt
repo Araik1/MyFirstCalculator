@@ -1,0 +1,51 @@
+c:\users\fvb\documents\visual studio 2015\Projects\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.exe.config
+c:\users\fvb\documents\visual studio 2015\Projects\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.exe
+c:\users\fvb\documents\visual studio 2015\Projects\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.pdb
+c:\users\fvb\documents\visual studio 2015\Projects\MyFirstCalculator\MyFirstCalculator\obj\Debug\MyFirstCalculator.csprojResolveAssemblyReference.cache
+c:\users\fvb\documents\visual studio 2015\Projects\MyFirstCalculator\MyFirstCalculator\obj\Debug\MyFirstCalculator.Properties.Resources.resources
+c:\users\fvb\documents\visual studio 2015\Projects\MyFirstCalculator\MyFirstCalculator\obj\Debug\MyFirstCalculator.csproj.GenerateResource.Cache
+c:\users\fvb\documents\visual studio 2015\Projects\MyFirstCalculator\MyFirstCalculator\obj\Debug\MyFirstCalculator.exe
+c:\users\fvb\documents\visual studio 2015\Projects\MyFirstCalculator\MyFirstCalculator\obj\Debug\MyFirstCalculator.pdb
+c:\users\fvb\documents\visual studio 2015\Projects\MyFirstCalculator\MyFirstCalculator\obj\Debug\MyFirstCalculator.calculator.resources
+G:\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.exe.config
+G:\MyFirstCalculator\MyFirstCalculator\obj\Debug\MyFirstCalculator.exe
+G:\MyFirstCalculator\MyFirstCalculator\obj\Debug\MyFirstCalculator.pdb
+G:\MyFirstCalculator\MyFirstCalculator\obj\Debug\MyFirstCalculator.csprojResolveAssemblyReference.cache
+G:\MyFirstCalculator\MyFirstCalculator\obj\Debug\MyFirstCalculator.calculator.resources
+G:\MyFirstCalculator\MyFirstCalculator\obj\Debug\MyFirstCalculator.Properties.Resources.resources
+G:\MyFirstCalculator\MyFirstCalculator\obj\Debug\MyFirstCalculator.csproj.GenerateResource.Cache
+G:\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.exe
+G:\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.pdb
+D:\MyFirstCalculator\MyFirstCalculator\bin\Debug\MyFirstCalculator.exe.config
+D:\MyFirstCalculator\MyFirstCalculator\obj\Debug\MyFirstCalculator.exe
+D:\MyFirstCalculator\MyFirstCalculator\obj\Debug\MyFirstCalculator.pdb
+C:\GitHub\Studies\MyFirstCalculator\bin\Debug\MyFirstCalculator.exe.config
+C:\GitHub\Studies\MyFirstCalculator\obj\Debug\MyFirstCalculator.exe
+C:\GitHub\Studies\MyFirstCalculator\obj\Debug\MyFirstCalculator.pdb
+C:\GitHub\Studies\MyFirstCalculator\bin\Debug\MyFirstCalculator.exe
+C:\GitHub\Studies\MyFirstCalculator\bin\Debug\MyFirstCalculator.pdb
+C:\GitHub\Studies\MyFirstCalculator\obj\Debug\MyFirstCalculator.csprojResolveAssemblyReference.cache
+C:\GitHub\Studies\MyFirstCalculator\obj\Debug\MyFirstCalculator.calculator.resources
+C:\GitHub\Studies\MyFirstCalculator\obj\Debug\MyFirstCalculator.Properties.Resources.resources
+C:\GitHub\Studies\MyFirstCalculator\obj\Debug\MyFirstCalculator.csproj.GenerateResource.Cache
+C:\Users\fvb\Saved Games\Desktop\MyFirstCalculator\bin\Debug\MyFirstCalculator.exe.config
+C:\Users\fvb\Saved Games\Desktop\MyFirstCalculator\obj\Debug\MyFirstCalculator.exe
+C:\Users\fvb\Saved Games\Desktop\MyFirstCalculator\obj\Debug\MyFirstCalculator.pdb
+C:\Users\fvb\Saved Games\Desktop\MyFirstCalculator\obj\Debug\MyFirstCalculator.csprojResolveAssemblyReference.cache
+C:\Users\fvb\Saved Games\Desktop\MyFirstCalculator\obj\Debug\MyFirstCalculator.calculator.resources
+C:\Users\fvb\Saved Games\Desktop\MyFirstCalculator\obj\Debug\MyFirstCalculator.Properties.Resources.resources
+C:\Users\fvb\Saved Games\Desktop\MyFirstCalculator\obj\Debug\MyFirstCalculator.csproj.GenerateResource.Cache
+C:\Users\fvb\Saved Games\Desktop\MyFirstCalculator\bin\Debug\MyFirstCalculator.exe
+C:\Users\fvb\Saved Games\Desktop\MyFirstCalculator\bin\Debug\MyFirstCalculator.pdb
+C:\Users\fvb\Saved Games\Desktop\MyFirstCalculator\obj\Debug\MyFirstCalculator.History.resources
+C:\Study projects\GitHub\Studies\MyFirstCalculator\bin\Debug\MyFirstCalculator.exe.config
+C:\Study projects\GitHub\Studies\MyFirstCalculator\bin\Debug\MyFirstCalculator.exe
+C:\Study projects\GitHub\Studies\MyFirstCalculator\bin\Debug\MyFirstCalculator.pdb
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Debug\MyFirstCalculator.csprojAssemblyReference.cache
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Debug\MyFirstCalculator.calculator.resources
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Debug\MyFirstCalculator.History.resources
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Debug\MyFirstCalculator.Properties.Resources.resources
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Debug\MyFirstCalculator.csproj.GenerateResource.cache
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Debug\MyFirstCalculator.csproj.CoreCompileInputs.cache
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Debug\MyFirstCalculator.exe
+C:\Study projects\GitHub\Studies\MyFirstCalculator\obj\Debug\MyFirstCalculator.pdb
